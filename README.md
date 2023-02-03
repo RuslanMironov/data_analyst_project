@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td align="center">5</td>
-<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/AB_testing_online_store/AB_testing.ipynb" rel="nofollow"><strong>Проведения А/В тестирования гипотез для увеличения выручки</strong></a><br>Провел приоритизацию гипотез по фреймворкам ICE и RICE. Так же провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам.<br><em><</em></td>
+<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/AB_testing_online_store/AB_testing.ipynb" rel="nofollow"><strong>Проведения А/В тестирования гипотез для увеличения выручки</strong></a><br>Провел приоритизацию гипотез по фреймворкам ICE и RICE. Так же провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам.<br><em></em></td>
 <td><code>Python</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>SciPy</code>, <code>A/B-тестирование</code>, <code>проверка статистических гипотез</code></td>
 </tr>
 <tr>

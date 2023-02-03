@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td align="center">7</td>
-<td><a href="https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/9_project_ab_test/9_together_in_git_ab_test.ipynb" rel="nofollow"><strong>Анализ пользовательского поведения в мобильном приложении.</strong></a><br>Проанализировал воронку продаж в стартапе продающем продукты питания, оценил результаты A/A/B тестирования. Выводы сделаны на основе данных из мобильного приложения<br><em><strong>Выяснили: конверсия в  в оплату 47% , отличный результат. Изменение шрифта в приложении статистически значимого изменения в конверсии не принесло</strong></em></td>
+<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/main/AB_testing_change_font/AB_testing_font.ipynb" rel="nofollow"><strong>Анализ пользовательского поведения в приложении продажи продуктов питания.</strong></a><br>Исследовал воронку продаж, оценил результаты A/A/B тестирования. Выводы сделаны на основе данных из мобильного приложения<br><em><strong>Выяснили: конверсия в  в оплату 47% , отличный результат. Изменение шрифта в приложении статистически значимого изменения в конверсии не принесло</strong></em></td>
 <td><code>A/B тестирование</code> <code>Matplotlib</code> <code>Pandas</code> <code>Plotly</code> <code>Python</code> <code>Seaborn</code> <code>визуализация данных</code>, <code>проверка статистических гипотез</code>, <code>продуктовые метрики</code>, <code>событийная аналитика</code>.</td>
 </tr>
 </tbody>

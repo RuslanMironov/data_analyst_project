@@ -12,12 +12,12 @@
 <tbody>
 <tr>
 <td align="center">1</td>
-<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/main/flat_for_sales_project/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%D1%85%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow"><strong>Исследования объявлений о продажах квартир</strong></a>.<br>Исследовал и нашел зависимости влияющие на оценку и конечную стоимость квартир. <br><em><strong>Основные корреляции с ценой: площадь, близость к центру и метро.</strong></em></td>
+<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/main/flat_for_sales_project/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%D1%85%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow"><strong>Исследование объявлений о продажах квартир</strong></a>.<br>Исследовал и нашел зависимости влияющие на оценку и конечную стоимость квартир. <br><em><strong>Основные корреляции с ценой: площадь, близость к центру и метро.</strong></em></td>
 <td><code>Python</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>визуализация данных</code>.</td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/tarifs_research/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2.ipynb" rel="nofollow"><strong>Исследования тарифов</strong></a><br>Проанализировал тарифы мобильного оператора и поведение клиентов. Определил тариф, который приносит большего всего прибыли. Проверил гипотезы.<br><em</em></td>
+<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/tarifs_research/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2.ipynb" rel="nofollow"><strong>Исследование тарифов</strong></a><br>Проанализировал тарифы мобильного оператора и поведение клиентов. Определил тариф, который приносит большего всего прибыли. Проверил гипотезы.<br><em</em></td>
 <td><code>Python</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>NumPy</code>, <code>SciPy</code>, <code>Seaborn</code>, <code>Plotly</code>, <code>описательная статистика</code>, <code>проверка статистических гипотез</code></td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td align="center">5</td>
-<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/AB_testing_online_store/AB_testing.ipynb" rel="nofollow"><strong>Проведения А/В тестирования гипотез для увеличения выручки</strong></a><br>Провел приоритизацию гипотез по фреймворкам ICE и RICE. Так же провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам.<br><em></em></td>
+<td><a href="https://github.com/RuslanMironov/data_analyst_project/blob/466fbda11b9802b3140fb5db51a235a4d2994c8f/AB_testing_online_store/AB_testing.ipynb" rel="nofollow"><strong>Проведение А/В тестирования гипотез для увеличения выручки</strong></a><br>Провел приоритизацию гипотез по фреймворкам ICE и RICE. Так же провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам.<br><em></em></td>
 <td><code>Python</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>SciPy</code>, <code>A/B-тестирование</code>, <code>проверка статистических гипотез</code></td>
 </tr>
 <tr>
